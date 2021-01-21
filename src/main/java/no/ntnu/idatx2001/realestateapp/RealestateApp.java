@@ -47,11 +47,6 @@ public class RealestateApp {
         this.properties = new PropertyRegister();
     }
 
-    public void testMethod()
-    {
-        System.out.println("GFHJNM");
-    }
-
     /**
      * Called to initialise the instance after having been created. Must be
      * called prior to calling {@code start()}
